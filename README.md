@@ -1,4 +1,4 @@
-# 🌐 SyntexHub Frontend Portfolio
+# 🌐 SyntecxHub Frontend Portfolio Website
 
 A modern and responsive **Portfolio Website** built using HTML and CSS.  
 This project is created as part of the SyntexHub Internship Program.
@@ -6,7 +6,7 @@ This project is created as part of the SyntexHub Internship Program.
 ---
 
 ## 🚀 Live Demo
-🔗 https://hooriasadiq.github.io/syntexhub_portfolio_website/
+🔗 https://hooriasadiq.github.io/syntecxhub_portfolio_website/
 
 ---
 
